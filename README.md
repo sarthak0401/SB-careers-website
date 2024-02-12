@@ -10,3 +10,5 @@
 ![Screenshot 2024-02-10 003126](https://github.com/sarthak0401/SB-careers-website/assets/120019344/25b4e5aa-a3e7-4dec-bb63-9cdc69c91c99)
 ![Screenshot 2024-02-10 003141](https://github.com/sarthak0401/SB-careers-website/assets/120019344/7fb050d3-db75-40ea-9fc2-290b496d93d5)
 ![Screenshot 2024-02-10 004108](https://github.com/sarthak0401/SB-careers-website/assets/120019344/94abd4ef-7793-45d0-8570-fbd1622153ab)
+
+Future work: I will be adding Database to it, to store the details of the applicants who will apply for the job through my website. 
